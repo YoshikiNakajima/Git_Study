@@ -34,7 +34,7 @@ ssh-keygen
 id_rsa		id_rsa.pub	known_hosts
 ```
 https://github.com/settings/ssh
-公開鍵を上URLからGitHubにアップする。
+公開鍵を上URLからGitHubにアップする。  
 ページ内`Add SSH key`から`title`に公開鍵名、`key`に公開鍵の中身を入れる。
 
 ## Gitのいろいろ
@@ -49,8 +49,8 @@ git add .
 git commit -m [comment]
 git push
 ```
-`git add .`ディレクトリ内の全てをステージングエリアへ更新¥n
-`git commit -m [comment]`更新をリポジトリに保存 [comment]に詳細を記述
+`git add .`ディレクトリ内の全てをステージングエリアへ更新  
+`git commit -m [comment]`更新をリポジトリに保存 [comment]に詳細を記述  
 `git push`リモートリポジトリを更新
 
 ## Hello World
