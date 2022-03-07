@@ -49,7 +49,7 @@ git add .
 git commit -m [comment]
 git push
 ```
-`git add .`ディレクトリ内の全てをステージングエリアへ更新
+`git add .`ディレクトリ内の全てをステージングエリアへ更新¥n
 `git commit -m [comment]`更新をリポジトリに保存 [comment]に詳細を記述
 `git push`リモートリポジトリを更新
 
