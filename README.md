@@ -53,7 +53,30 @@ git push
 `git commit -m [comment]`更新をリポジトリに保存 [comment]に詳細を記述  
 `git push`リモートリポジトリを更新
 
-## Hello World
+## マークダウンファイル(README.md)の編集
+### 見出し
+`#`の個数でレベル分け見出し。
+```
+#### AAA
+##### BBB
+###### CCC
+```
+#### AAA
+##### BBB
+###### CCC
+
+### コード
+`バックオート3つ`でコード挿入  
+` ``` `
+```
+printf("Hello World");
+```
+
+### 改行
+### 段落
+
+
+## [作成編集例]Hello World
 - 1111
 - 2222
 - 3333
@@ -70,7 +93,7 @@ main()
 }
 ```
 
-## Apple pie
+## [作成編集例]Apple pie
 - 1111
   - 2222
 
